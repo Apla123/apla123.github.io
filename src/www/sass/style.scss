@@ -2520,6 +2520,7 @@ header {
 			position: relative;
 			height: 100%;
 			@include max($btablet) {
+				display: block;
 				height: auto;
 			}
 			& > div {
@@ -2528,9 +2529,6 @@ header {
 				justify-content: center;
 				align-items: center;
 				text-align: center;
-				@include max($bdesktop) {
-					max-height: none;
-				}
 				p {
 					max-width: 580px;
 				}
@@ -2543,19 +2541,10 @@ header {
 				text-align: center;
 				margin-left: -15px;
 				margin-right: -15px;
-				@include max($bmobile) {
-					flex: 100%;
-					display: flex;
-					flex-flow: column nowrap;
-					justify-content: flex-start;
-					align-content: center;
-					align-items: center;
-					width: 100%;
+				@include max($btablet) {
+					display: block;
 					max-width: 290px;
-					min-height: 100px;
-					background-position: left center;
-					background-size: auto 70px;
-					margin: auto;
+					margin: 0px auto;
 					& + article {
 						margin-top: 30px;
 					}
