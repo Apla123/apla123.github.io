@@ -9,7 +9,7 @@
 		function getVersion () {
 			$http({
 				method : 'GET',
-				url    : 'version.json'
+				url    : '/version.json'
 			})
 			.then(function(response) {
 				$scope.version = response.data;
