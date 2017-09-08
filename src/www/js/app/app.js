@@ -83,7 +83,10 @@
 			opacity: 0,
 			duration: 2000,
 			viewFactor: 0.2,
-			reset: false
+			reset: false,
+			afterReveal: function (domEl) {
+				domEl.style = "";
+			}
 		};
 		
 		$rootScope.sequence = {
@@ -98,6 +101,10 @@
 			sequence: {
 				selector: '',
 				interval: 300
+			},
+			afterReveal: function (domEl) {
+				domEl.style = "";
+				domEl.parentNode.style = "";
 			}
 		};
 	
