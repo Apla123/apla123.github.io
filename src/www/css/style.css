@@ -5697,6 +5697,12 @@ header .aside > div md-menu md-icon svg {
 			background-position: center center;*/
 }
 
+@media screen and (max-width: 1024px) {
+  .main__access .bg {
+    display: none;
+  }
+}
+
 .main__access .bg img {
   display: block;
   width: auto;
@@ -5730,7 +5736,7 @@ header .aside > div md-menu md-icon svg {
   text-align: center;
 }
 
-@media screen and (max-width: 1199px) {
+@media screen and (max-width: 1024px) {
   .main__access > * {
     height: auto;
   }
@@ -5836,6 +5842,7 @@ header .aside > div md-menu md-icon svg {
   -ms-flex-line-pack: center;
   align-content: center;
   position: relative;
+  height: 100%;
 }
 
 .main__prospects > * > div {
