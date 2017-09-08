@@ -2291,6 +2291,7 @@ header {
 			text-align: center;
 		}
 		section {
+			visibility: visible !important;
 			position: relative;
 			margin-top: 30px;
 			margin-left: -15px;
@@ -2518,6 +2519,9 @@ header {
 			align-content: center;
 			position: relative;
 			height: 100%;
+			@include max($btablet) {
+				height: auto;
+			}
 			& > div {
 				display: flex;
 				flex-flow: column nowrap;

@@ -6866,6 +6866,7 @@ header .aside > div md-menu md-icon svg {
 }
 
 .government__department section {
+  visibility: visible !important;
   position: relative;
   margin-top: 30px;
   margin-left: -15px;
@@ -7218,6 +7219,12 @@ header .aside > div md-menu md-icon svg {
   align-content: center;
   position: relative;
   height: 100%;
+}
+
+@media screen and (max-width: 1024px) {
+  .government__benefits > * {
+    height: auto;
+  }
 }
 
 .government__benefits > * > div {
