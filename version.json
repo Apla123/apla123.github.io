@@ -2,7 +2,8 @@
 	"lite": {
 		"version": "v1.0-lite",
 		"google_play": "https://play.google.com/store/apps/details?id=egaas.org.egaas2",
-		"app_store": "https://itunes.apple.com/ru/app/egaas-electronic-governement-as-a-service/id1148765378?mt=8"
+		"app_store": "https://itunes.apple.com/ru/app/egaas-electronic-governement-as-a-service/id1148765378?mt=8",
+		"web": "https://node1.apla.io/"
 	},
 	"wallet": {
 		"version": "v1.0.4b8",
