@@ -510,8 +510,32 @@
 				"SOCIAL": []
 			},
 			"9": {
-				"COUNTRY": "netherlands",
+				"COUNTRY": "indonesia",
+				"IMG": "../images/team/team_9.png",
+				"NAME": "Роман Потехин",
+				"PROFESSION": "Backend разработчик",
+				"TEXT": "Программист Python 2.x, Erlang, golang, специалист по работе с базами данных СУБД, NoSQL, колоночными БД. Эксперт в области функционального программирования. Занимался реализацией проектов для крупных российских компаний таких как «Мегафон», Sports.ru. Опыт программирования более 10 лет.",
+				"SOCIAL": []
+			},
+			"10": {
+				"COUNTRY": "russia",
 				"IMG": "../images/team/team_10.png",
+				"NAME": "Александр Холодов",
+				"PROFESSION": "Backend разработчик",
+				"TEXT": "Программист Golang, C, C++, lua, git, nosql(tarantool), threads, mysql, gdb,valgrind, kafka, mapreduce, hadoop, data mining, machine learning, big data, алгоритмов классификации, кластеризации, регрессии, рекомендательные системы, модулей на nginx, разработчик многопоточных серверных linux – приложений. Программировал в компаниях Mail.Ru Group, Badoo Development (badoo.com) и других. Опыт работы в сфере IT – 18 лет.",
+				"SOCIAL": []
+			},
+			"11": {
+				"COUNTRY": "russia",
+				"IMG": "../images/team/team_11.png",
+				"NAME": "Евгений Лернер",
+				"PROFESSION": "Backend разработчик",
+				"TEXT": "Программист-разработчик сложных программных решений, магистр в области прикладной математики. Среди крупных проектов: создавал систему мониторинга транспорта в реальном времени, программный комплекс-аналог Dropbox, систему мониторинга сетевых устройств. Опыт в программировании – более 10 лет.",
+				"SOCIAL": []
+			},
+			"12": {
+				"COUNTRY": "netherlands",
+				"IMG": "../images/team/team_12.png",
 				"NAME": "Jesus Pena",
 				"PROFESSION": "Chief Operating Officer (COO)",
 				"TEXT": "Jesus Pena Garcia is 35 years old blockchain enthusiast, CMO in Alpla - electronic platform for creation the blockchain ecosystems that provides possibilities for managing governmental processes with help of smart-contracts and smart-laws. Apla is the first platform which allows uniting of all state activities on the one blockchain. Also Jesus is founder and CEO of Bitbank, a Fintech company located in Luxembourg. He moved to Luxembourg in 2014 to launch his own business, obtaining financial support from Luxembourg Government for his projects. He joined Grant Thornton Luxembourg in October 2015, where he takes the post of director of the initiative called GT Technology HUB.",
@@ -522,17 +546,17 @@
 					}
 				]
 			},
-			"10": {
+			"13": {
 				"COUNTRY": "netherlands",
-				"IMG": "../images/team/team_11.png",
+				"IMG": "../images/team/team_13.png",
 				"NAME": "Muhammed Arafath",
 				"PROFESSION": "Regional Franchise Manager/Africa/Asia/Middle East",
 				"TEXT": "A graduate from Southern Cross University, Australia certified Blockchain business analyst, has 10+ years experience working with diverse verticals, industries and international markets. Currently exploring the intersection of artificial intelligence, blockchains and the internet of things. He is actively work with government and private organizations to help them adopt blockchain technology.",
 				"SOCIAL": []
 			},
-			"11": {
+			"14": {
 				"COUNTRY": "netherlands",
-				"IMG": "../images/team/team_12.png",
+				"IMG": "../images/team/team_14.png",
 				"NAME": "Олег Стреленко",
 				"PROFESSION": "Основатель и генеральный директор eGaaS, блокчейн-разработчик",
 				"TEXT": "Блокчейн-разработчик с 5-летним опытом. Предприниматель, программист. Основатель и бывший руководитель агентства кибер-безопасности DDOSExpert. Известен в русскоязычном Интернет-сообществе как Дмитрий Харитонов. В течение 10 лет разрабатывает собственные проекты и руководит IT-командами.",
