@@ -25,7 +25,7 @@
 					</article>
 					<article>
 						<span><img src="../images/web.png" alt=""/>{{ 'DOWNLOAD.WEB' | translate }}</span>
-						<a href="{{version.lite.web}}" target="_blank">{{ 'DOWNLOAD.GO' | translate }}</a>
+						<a ng-href="{{version.lite.web}}" target="_blank">{{ 'DOWNLOAD.GO' | translate }}</a>
 					</article>
 					<article ng-if="version.lite.google_play || version.lite.app_store">
 						<span><img src="../images/mobile.png" alt=""/>{{ 'DOWNLOAD.MOBILE' | translate }}</span>
