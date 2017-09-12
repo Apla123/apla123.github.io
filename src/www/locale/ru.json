@@ -17,7 +17,7 @@
 		"SHOWREEL": {
 			"TITLE": "Apla",
 			"SLOGAN": "Публичная блокчейн платформа для построения цифровых экосистем",
-			"TEXT": "Создайте экосистему для разработки и запуска блокчейнприложений в один клик.",
+			"TEXT": "Создайте экосистему для разработки и запуска блокчейн приложений в один клик.",
 			"BUTTONS": {
 				"DOWNLOAD": "Скачать кошелек",
 				"OTHER": "другие операционные системы"
@@ -519,21 +519,13 @@
 			},
 			"10": {
 				"COUNTRY": "russia",
-				"IMG": "../images/team/team_10.png",
-				"NAME": "Александр Холодов",
-				"PROFESSION": "Backend разработчик",
-				"TEXT": "Программист Golang, C, C++, lua, git, nosql(tarantool), threads, mysql, gdb,valgrind, kafka, mapreduce, hadoop, data mining, machine learning, big data, алгоритмов классификации, кластеризации, регрессии, рекомендательные системы, модулей на nginx, разработчик многопоточных серверных linux – приложений. Программировал в компаниях Mail.Ru Group, Badoo Development (badoo.com) и других. Опыт работы в сфере IT – 18 лет.",
-				"SOCIAL": []
-			},
-			"11": {
-				"COUNTRY": "russia",
 				"IMG": "../images/team/team_11.png",
 				"NAME": "Евгений Лернер",
 				"PROFESSION": "Backend разработчик",
 				"TEXT": "Программист-разработчик сложных программных решений, магистр в области прикладной математики. Среди крупных проектов: создавал систему мониторинга транспорта в реальном времени, программный комплекс-аналог Dropbox, систему мониторинга сетевых устройств. Опыт в программировании – более 10 лет.",
 				"SOCIAL": []
 			},
-			"12": {
+			"11": {
 				"COUNTRY": "netherlands",
 				"IMG": "../images/team/team_12.png",
 				"NAME": "Jesus Pena",
@@ -546,7 +538,7 @@
 					}
 				]
 			},
-			"13": {
+			"12": {
 				"COUNTRY": "netherlands",
 				"IMG": "../images/team/team_13.png",
 				"NAME": "Muhammed Arafath",
@@ -554,7 +546,7 @@
 				"TEXT": "A graduate from Southern Cross University, Australia certified Blockchain business analyst, has 10+ years experience working with diverse verticals, industries and international markets. Currently exploring the intersection of artificial intelligence, blockchains and the internet of things. He is actively work with government and private organizations to help them adopt blockchain technology.",
 				"SOCIAL": []
 			},
-			"14": {
+			"13": {
 				"COUNTRY": "netherlands",
 				"IMG": "../images/team/team_14.png",
 				"NAME": "Олег Стреленко",

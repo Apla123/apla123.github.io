@@ -519,21 +519,13 @@
 			},
 			"10": {
 				"COUNTRY": "russia",
-				"IMG": "../images/team/team_10.png",
-				"NAME": "Alexander Kholodov",
-				"PROFESSION": "Backend Developer",
-				"TEXT": "Golang, C, C++, lua, git, nosql(tarantool), threads, mysql, gdb,valgrind, kafka, mapreduce, hadoop, data mining, machine learning, and big data programmer with experience in development of algorithms for classification, clustering, regression, recommendation systems, nginx modules, and multi-thread server linux applications. Worked with Mail.rui Group, Badoo Development (badoo.com), and other companies. Experience in IT industry – 18 years.",
-				"SOCIAL": []
-			},
-			"11": {
-				"COUNTRY": "russia",
 				"IMG": "../images/team/team_11.png",
 				"NAME": "Yevgeny Lerner",
 				"PROFESSION": "Backend Developer",
 				"TEXT": "A programmer/developer of complex software solutions, Master in Applied Mathematics. Some of the major projects include: as system for real time transport monitoring, a software complex similar to Dropbox, a system for network devices monitoring. Programming experience – over 10 years.",
 				"SOCIAL": []
 			},
-			"12": {
+			"11": {
 				"COUNTRY": "netherlands",
 				"IMG": "../images/team/team_12.png",
 				"NAME": "Jesus Pena",
@@ -546,7 +538,7 @@
 					}
 				]
 			},
-			"13": {
+			"12": {
 				"COUNTRY": "netherlands",
 				"IMG": "../images/team/team_13.png",
 				"NAME": "Muhammed Arafath",
@@ -554,7 +546,7 @@
 				"TEXT": "A graduate from Southern Cross University, Australia certified Blockchain business analyst, has 10+ years experience working with diverse verticals, industries and international markets. Currently exploring the intersection of artificial intelligence, blockchains and the internet of things. He is actively work with government and private organizations to help them adopt blockchain technology.",
 				"SOCIAL": []
 			},
-			"14": {
+			"13": {
 				"COUNTRY": "netherlands",
 				"IMG": "../images/team/team_14.png",
 				"NAME": "Oleg Strelenko",
