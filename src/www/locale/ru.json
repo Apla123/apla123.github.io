@@ -168,7 +168,7 @@
 				"5": {
 					"NAME": "Consensus method",
 					"TD": {
-						"1": "DPoS",
+						"1": "DPoV(E)",
 						"2": "PoW",
 						"3": "Practical Byzantine Fault Tolerance",
 						"4": "Various algorithms",
@@ -530,7 +530,7 @@
 				"IMG": "../images/team/team_12.png",
 				"NAME": "Jesus Pena",
 				"PROFESSION": "Chief Operating Officer (COO)",
-				"TEXT": "Jesus Pena Garcia is 35 years old blockchain enthusiast, CMO in Alpla - electronic platform for creation the blockchain ecosystems that provides possibilities for managing governmental processes with help of smart-contracts and smart-laws. Apla is the first platform which allows uniting of all state activities on the one blockchain. Also Jesus is founder and CEO of Bitbank, a Fintech company located in Luxembourg. He moved to Luxembourg in 2014 to launch his own business, obtaining financial support from Luxembourg Government for his projects. He joined Grant Thornton Luxembourg in October 2015, where he takes the post of director of the initiative called GT Technology HUB.",
+				"TEXT": "Jesus Pena Garcia is 35 years old blockchain enthusiast, CMO in Apla - electronic platform for creation the blockchain ecosystems that provides possibilities for managing governmental processes with help of smart-contracts and smart-laws. Apla is the first platform which allows uniting of all state activities on the one blockchain. Also Jesus is founder and CEO of Bitbank, a Fintech company located in Luxembourg. He moved to Luxembourg in 2014 to launch his own business, obtaining financial support from Luxembourg Government for his projects. He joined Grant Thornton Luxembourg in October 2015, where he takes the post of director of the initiative called GT Technology HUB.",
 				"SOCIAL": [
 					{
 						"name": "linkedin",

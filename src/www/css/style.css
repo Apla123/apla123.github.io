@@ -5370,6 +5370,27 @@ header .aside > div md-menu md-icon svg {
   display: none;
 }
 
+.main__ecosystem > * .img p {
+  position: absolute;
+  left: 0px;
+  top: calc(50% + 98px);
+  width: calc(100% + 58px);
+  max-width: none;
+  color: #2a283a;
+  text-decoration: none;
+}
+
+@media screen and (max-width: 768px) {
+  .main__ecosystem > * .img p {
+    top: calc(50% + 29px);
+    width: calc(100% + 39px);
+  }
+}
+
+.main__ecosystem > * .img p:before {
+  display: none;
+}
+
 .main__ecosystem > * h4 {
   position: relative;
   max-width: 420px;
