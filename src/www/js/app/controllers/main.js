@@ -82,7 +82,10 @@
 			theme: 'rounded',
 			advanced:{
 				updateOnContentResize: true,
-				autoUpdateTimeout: 10
+				autoUpdateTimeout: 60
+			},
+			mouseWheel: {
+				enable: false
 			},
 			scrollButtons: {
 				enable: false
