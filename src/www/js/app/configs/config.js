@@ -51,15 +51,15 @@
 			url: '/',
 			views: {
 				'header@': {
-					templateUrl: '/view/header.html',
+					templateUrl: '/view/header.html?' + new Date().getTime(),
 					controller: 'HeaderCtrl'
 				},
 				'main@': {
-					templateUrl: '/view/main.html',
+					templateUrl: '/view/main.html?' + new Date().getTime(),
 					controller: 'MainCtrl'
 				},
 				'footer@': {
-					templateUrl: '/view/footer.html',
+					templateUrl: '/view/footer.html?' + new Date().getTime(),
 					controller: 'FooterCtrl'
 				}
 			}
@@ -69,7 +69,7 @@
 			url: 'download/',
 			views: {
 				'main@': {
-					templateUrl: '/view/download.html',
+					templateUrl: '/view/download.html?' + new Date().getTime(),
 					controller: 'DownloadCtrl'
 				}
 			}
@@ -79,7 +79,7 @@
 			url: 'government/',
 			views: {
 				'main@': {
-					templateUrl: '/view/government.html',
+					templateUrl: '/view/government.html?' + new Date().getTime(),
 					controller: 'GovernmentCtrl'
 				}
 			}
@@ -89,7 +89,7 @@
 			url: 'business/',
 			views: {
 				'main@': {
-					templateUrl: '/view/business.html',
+					templateUrl: '/view/business.html?' + new Date().getTime(),
 					controller: 'BusinessCtrl'
 				}
 			}
