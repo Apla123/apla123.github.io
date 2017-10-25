@@ -1,7 +1,7 @@
 {
 	"LANG": "ru",
 	"LANGUAGE": "Ру",
-	"TITLE": "Apla - публичная блокчейн платформа для построения цифровых экосистем",
+	"TITLE": "Apla – публичная блокчейн платформа для построения цифровых экосистем",
 	"MENU": {
 		"HOME": "Главная",
 		"TEAM": "Команда",
@@ -32,91 +32,91 @@
 			}
 		},
 		"ABOUT": {
-			"TITLE": "Apla is",
-			"TEXT": "create blockchain projects easily and quickly"
+			"TITLE": "Apla – это",
+			"TEXT": "простое и быстрое создание проектов на блокчейн"
 		},
 		"CONCEPT": {
-			"TITLE": "Proof of concept",
-			"TEXT": "Apla presented several proofs of concepts taken by potential customers from several countries in Europe and Asia",
+			"TITLE": "Подтверждение концепции / Proof of concept (POC)",
+			"TEXT": "Apla разработала несколько POC для потенциальных клиентов из стран Европы и Азии ",
 			"CODE": "Source code",
 			"CONCEPT": "Site-concept",
 			"1": {
-				"NAME": "Obtaining a business license",
-				"DEVELOPMENT_APLA": "Development time on Apla",
-				"DEVELOPMENT_APLA_TIME": "135 man-hours",
-				"DEVELOPMENT_OTHER": "Development time on ethereum",
-				"DEVELOPMENT_OTHER_TIME": "1150 man-hours",
+				"NAME": "Сервис выдачи новых бизнес-лицензий",
+				"DEVELOPMENT_APLA": "Время разработки на платформе Apla",
+				"DEVELOPMENT_APLA_TIME": "135 человеко-часов",
+				"DEVELOPMENT_OTHER": "Время разработки на платформе Ethereum",
+				"DEVELOPMENT_OTHER_TIME": "1150 человеко-часов",
 				"LIST": {
-					"1": "Preparing registration application",
-					"2": "Creating a list of shareholders",
-					"3": "Automatic decision-making based on data available in registries (citizens, companies, real estate)",
-					"4": "Selecting premises from the real estate registry and signing a lease agreement",
-					"5": "Notifying departmental officials that take decisions on the application",
-					"6": "Recording decisions and names of officials in the notification log",
-					"7": "Updating the register of companies and shareholders"
+					"1": "Ввод данных для регистрации",
+					"2": "Создание списка акционеров",
+					"3": "Автоматическое принятие решений, основанное на данных, находящихся в реестрах (граждане, компании, объекты недвижимости)",
+					"4": "Выбор объекта из реестра недвижимости и подписание договоров аренды",
+					"5": "Уведомление работников департаментов, принимающих решения по соответствующим заявкам",
+					"6": "Запись имён работников департаментов и их решений в журнал уведомлений ",
+					"7": "Обновление реестра компаний и информации об акционерах "
 				}
 			},
 			"2": {
-				"NAME": "Poll and voting system",
-				"DEVELOPMENT_APLA": "Development time on Apla",
-				"DEVELOPMENT_APLA_TIME": "135 man-hours",
-				"DEVELOPMENT_OTHER": "Development time on ethereum",
-				"DEVELOPMENT_OTHER_TIME": "1150 man-hours",
+				"NAME": "Система опросов и голосований",
+				"DEVELOPMENT_APLA": "Время разработки на платформе Apla",
+				"DEVELOPMENT_APLA_TIME": "135 человеко-часов",
+				"DEVELOPMENT_OTHER": "Разработка на платформе Ethereum",
+				"DEVELOPMENT_OTHER_TIME": "1150 человеко-часов",
 				"LIST": {
-					"1": "Entering voting questions",
-					"2": "Selecting the polling type: an unambiguous direct Yes/No answer or a full-text answer",
-					"3": "Setting the start and end time of the polling",
-					"4": "Moderating the polling or voting: stopping, deleting, and previewing results.",
-					"5": "Conducting a polling or voting on the computers or mobile devices of ecosystem members",
-					"6": "Graphical presentation of voting results after its completion."
+					"1": "Ввод вопросов для опроса ",
+					"2": "Выбор типа опроса: однозначные (Да/Нет), или развернутые  ответы",
+					"3": "Установка времени начала и окончания опроса ",
+					"4": "Модерация опроса или голосования: остановка, удаление, и предпросмотр результатов",
+					"5": "Проведение опроса или голосования на компьютерах или мобильных устройствах членов экосистемы ",
+					"6": "Графическое представление результатов голосования после его завершения."
 				}
 			},
 			"3": {
-				"NAME": "Management of cadastral register",
-				"DEVELOPMENT_APLA": "Development time on Apla",
-				"DEVELOPMENT_APLA_TIME": "135 man-hours",
-				"DEVELOPMENT_OTHER": "Development time on ethereum",
-				"DEVELOPMENT_OTHER_TIME": "1150 man-hours",
+				"NAME": "Управление земельным (кадастровым) реестром",
+				"DEVELOPMENT_APLA": "Время разработки на платформе Apla",
+				"DEVELOPMENT_APLA_TIME": "135 человеко-часов",
+				"DEVELOPMENT_OTHER": " Время разработки на платформе Ethereum",
+				"DEVELOPMENT_OTHER_TIME": "1150 человеко-часов",
 				"LIST": {
-					"1": "Input of data on a new land plot, recording its owner, land use form, building class, address and area (the last two parameters are determined automatically with possible editing)",
-					"2": "Recording all changes and persons who made them in the registry history",
-					"3": "Displaying information about registry objects (land plots) both in the general table and in separate pages",
-					"4": "Prototype of contract of sale of land plot."
+					"1": "Внесение данных о новом участке земли, с записью информации о владельце, типе землепользования, классе сооружений на участке, адресе участка и его площади (последние два параметра определяются автоматически с возможностью последующей редакции)",
+					"2": "Запись внесённых изменений и информации о человеке, внёсшем эти изменения, в журнал изменений реестра",
+					"3": "Отображение информации об объектах недвижимости в главной таблице и на отдельных страницах",
+					"4": "Прототип контракта на продажу участка земли."
 				}
 			}
 		},
 		"DESCRIPTION": {
-			"TITLE": "How it works",
-			"DOCUMENTATION": "Documentation",
+			"TITLE": "Как это работает",
+			"DOCUMENTATION": "Документация",
 			"1": {
-				"NAME": "Programming language of contracts <strong>Simvolio</strong>",
+				"NAME": "Язык программирования смарт-контрактов – <strong>Simvolio</strong>",
 				"TEXT": {
-					"1": "Simvolio is the language for writing smart contracts with fast compilation in byte code.",
-					"2": "Simvolio supports a standard set of statements and constructions, functions for handling database tables and an error handling system.",
-					"3": "The contract code is written in Molis editor."
+					"1": "Simvolio – это язык для написания смарт-контрактов с быстрой компиляцией в байт-код.",
+					"2": "Simvolio поддерживает стандартный набор инструкций, конструкций и функций для работы с таблицами баз данных, а также систему обработки ошибок.",
+					"3": "Код контрактов пишется в редакторе программного клиента Molis."
 				}
 			},
 			"2": {
-				"NAME": "Ecosystem database",
+				"NAME": "База данных экосистемы ",
 				"TEXT": {
-					"1": "Each ecosystem has its own database. Database management tools are used to create tables, add columns and assign access rights."
+					"1": "Каждая экосистема работает со своим набором таблиц базы данных. Инструменты управления базой данных используются для создания таблиц, добавления колонок и назначения прав доступа."
 				}
 			},
 			"3": {
-				"NAME": "Template engine native language <strong>Protypo</strong>",
+				"NAME": "Оригинальный язык шаблонизатора <strong>Protypo</strong>",
 				"TEXT": {
-					"1": "Application user interfaces are written in Protypo, a special language of the template engine. The functions and constructions of the Protypo language enable you to obtain values from the database, build forms for transferring values to contracts and performing other operations.",
-					"2": "The interface page code is created in a special editor of software client Molis."
+					"1": "Пользовательские интерфейсы в приложениях пишутся с помощью специально разработанного языка шаблонизатора Protypo. Процедуры и функции в Protypo позволяют получать информацию из базы данных, конструировать формы для передачи данных контрактам, и осуществлять другие операции.",
+					"2": "Код страницы интерфейсов создаётся в специальном редакторе программного клиента Molis."
 				}
 			}
 		},
 		"VISUAL": {
-			"TITLE": "Visual interface designer",
-			"TEXT": "The visual interface designer allows to easily and quickly customize the appearance of application pages without resorting to HTML code. It is used to add text blocks, form and navigation elements, tables and diagrams to the page, as well as to configure their styles, position and sizes."
+			"TITLE": "Визуальный конструктор интерфейсов ",
+			"TEXT": "Визуальный конструктор интерфейсов позволят легко и быстро настраивать внешний вид страниц приложений без обращения к HTML коду. Он используется для добавления текстовых блоков, форм и элементов навигации, таблиц и графиков на страницу, а также позволяет настраивать их стили, положение, и размеры."
 		},
 		"TABLE": {
-			"TITLE": "Comparison table of 5 platforms",
-			"TEXT": "Molis is a single tool for accessing all the functionality of Apla. Molis contains APLwallet and an integrated application development environment",
+			"TITLE": "Сравнительная таблица 5 платформ",
+			"TEXT": "",
 			"HEAD": {
 				"1": "Apla",
 				"2": "Ethereum",
@@ -126,17 +126,17 @@
 			},
 			"ROW": {
 				"1": {
-					"NAME": "Network type",
+					"NAME": "Тип сети",
 					"TD": {
-						"1": "Public/private",
-						"2": "Public",
-						"3": "Private",
-						"4": "Public",
-						"5": "Public"
+						"1": "Публичная/приватная",
+						"2": "Публичная",
+						"3": "Приватная",
+						"4": "Публичная",
+						"5": "Публичная"
 					}
 				},
 				"2": {
-					"NAME": "Mining (emission of tokens at block formation)",
+					"NAME": "Майнинг (эмиссия токенов в момент формирования блоков)",
 					"TD": {
 						"1": "",
 						"2": "",
@@ -146,47 +146,47 @@
 					}
 				},
 				"3": {
-					"NAME": "Full nodes limit",
+					"NAME": "Ограничение по количеству полных узлов ",
 					"TD": {
 						"1": "",
 						"2": "",
-						"3": "Limited by the number of blockchain channel members",
+						"3": "Ограничено количеством участников канала блокчейн",
 						"4": "",
 						"5": ""
 					}
 				},
 				"4": {
-					"NAME": "Number of blockchains",
+					"NAME": "Количество блокчейнов",
 					"TD": {
 						"1": "",
 						"2": "",
-						"3": "A separate channel for every project",
+						"3": "Отдельный канал для каждого проекта ",
 						"4": "",
-						"5": "with an ability for data exchange between different blockchains"
+						"5": "с возможностью обмена данными между блокчейнами"
 					}
 				},
 				"5": {
-					"NAME": "Consensus method",
+					"NAME": "Метод консенсуса ",
 					"TD": {
 						"1": "DPoV(E)",
 						"2": "PoW",
 						"3": "Practical Byzantine Fault Tolerance",
-						"4": "Various algorithms",
+						"4": "Различные алгоритмы",
 						"5": "DPoS"
 					}
 				},
 				"6": {
-					"NAME": "Availability of a “legal framework”",
+					"NAME": "Наличие “законодательной основы”",
 					"TD": {
-						"1": "At the contract level",
+						"1": "На уровне контрактов ",
 						"2": "",
 						"3": "",
-						"4": "At the protocol level",
-						"5": "At the protocol level"
+						"4": "На уровне протокола ",
+						"5": "На уровне протокола"
 					}
 				},
 				"7": {
-					"NAME": "Availability of a formal check of contract source codes",
+					"NAME": "Наличие формальной проверки исходных кодов контрактов",
 					"TD": {
 						"1": "",
 						"2": "",
@@ -196,60 +196,60 @@
 					}
 				},
 				"8": {
-					"NAME": "Block reward",
+					"NAME": "Вознаграждение за создание блока ",
 					"TD": {
-						"1": "Commission",
-						"2": "Commission + token emission",
+						"1": "Комиссия",
+						"2": "Комиссия + выпуск токенов",
 						"3": "",
-						"4": "Token emission",
-						"5": "Token emission"
+						"4": "Выпуск токенов",
+						"5": "Выпуск токенов"
 					}
 				},
 				"9": {
-					"NAME": "Contract changing procedure",
+					"NAME": "Процедура изменения контрактов ",
 					"TD": {
-						"1": "In accordance with rules set out in smart laws",
+						"1": "В соответствие с правилами, закреплёнными в смарт-законах",
 						"2": "",
 						"3": "",
 						"4": "",
-						"5": "At the protocol level, decisions are made by voting of validating nodes"
+						"5": "На уровне протокола, решения принимаются голосованием валидирующих узлов "
 					}
 				},
 				"10": {
-					"NAME": "Access rights system",
+					"NAME": "Система прав доступа",
 					"TD": {
-						"1": "Access rights are managed by contracts and allow for accessing all elements of applications",
+						"1": "Права доступа управляются контрактами и позволяют настраивать доступ ко всем элементам приложений",
 						"2": "",
 						"3": "",
 						"4": "",
-						"5": "Management of accounts' access rights"
+						"5": "Управление правами доступа аккаунтов"
 					}
 				},
 				"11": {
-					"NAME": "User interface",
+					"NAME": "Пользовательский интерфейс",
 					"TD": {
-						"1": "Internal template engine language and a visual interface designer",
+						"1": "Встроенный язык шаблонизатора и визуальный редактор интерфейсов",
 						"2": "",
 						"3": "",
 						"4": "",
-						"5": "To be updated (no description yet)"
+						"5": "Информация будет обновлена (описание пока не доступно)"
 					}
 				},
 				"12": {
-					"NAME": "Date of launch",
+					"NAME": "Дата запуска ",
 					"TD": {
-						"1": "testnet – February 2017<br />mainnet – September 2017",
-						"2": "Alfa version – July 2015<br />Stable release – March 2016",
-						"3": "Hyperledger Fabric 1.0<br />July 2017",
-						"4": "No data",
-						"5": "No data"
+						"1": "Testnet – February 2017<br />Mainnet – September 2017",
+						"2": "Альфа версия – июль 2015<br />Стабильная версия – март 2016",
+						"3": "Hyperledger Fabric 1.0<br />Июль 2017",
+						"4": "Данных нет",
+						"5": "Данных нет"
 					}
 				},
 				"13": {
-					"NAME": "Development",
+					"NAME": "Развитие",
 					"TD": {
-						"1": "Paralleled processing of transactions, partial nodes, visual contract and interface editors, semantic instruments",
-						"2": "Sharding for scaling, transition to PoS",
+						"1": "Параллельная обработка транзакций, неполные узлы, визуальные редакторы контрактов и интерфейсов, семантические инструменты",
+						"2": "",
 						"3": "",
 						"4": "",
 						"5": ""
@@ -258,50 +258,50 @@
 			}
 		},
 		"ECOSYSTEM": {
-			"TITLE": "Apla ecosystem",
-			"TEXT": "Any owner of an Apla account can create his or her own ecosystem in one click. An ecosystem is a software environment for writing and running blockchain applications. Access to applications and right to participate in ecosystem management are owned by its members – Apla users invited by the ecosystem creator.",
-			"NAME": "ecosystem",
-			"CREATE": "create in one click",
-			"BOX": "In the ecosystem, applications are available out-of-the-box",
+			"TITLE": "Экосистема Apla",
+			"TEXT": "Любой владелец аккаунта Apla может создать собственную экосистему в один клик. Экосистема представляет собой программную среду для написания и запуска приложений на блокчейн. Доступ к приложениям и права на участие в управлении экосистемами принадлежат её членам – пользователям Apla, приглашённым в экосистему её создателем.",
+			"NAME": "Экосистема",
+			"CREATE": "Создание в один клик",
+			"BOX": "В каждой новой экосистеме по умолчанию доступен ряд готовых приложений",
 			"LIST": {
-				"1": "Financial system with configuration of emission parameters",
-				"2": "System for managing ecosystem members and roles",
-				"3": "News service with ratings, commenting posts and paying for activity",
-				"4": "Voting and polling tools",
-				"5": "Messenger for messaging between ecosystem members"
+				"1": "Финансовая система с возможностью настройки параметров эмиссии токенов",
+				"2": "Система управления участниками и ролями экосистемы",
+				"3": "Новостная система с рейтингами, комментариями и оплатой за активность",
+				"4": "Инструменты для проведения опросов и голосований",
+				"5": "Программа для обмена сообщениями между членами экосистемы"
 			}
 		},
 		"SOFTWARE": {
-			"TITLE": "Apla software client",
-			"TEXT": "Molis is a single tool for accessing all Apla features. Molis contains an APL wallet and an integrated development environment for blockchain applications."
+			"TITLE": "Программный клиент Apla",
+			"TEXT": "Molis является единым инструментом для доступа ко всем функциям Apla. Molis содержит интегрированную среду разработки блокчейн-приложений и позволяет настраивать все параметры экосистемы."
 		},
 		"ENVIRONMENT": {
-			"TITLE": "Integrated development environment",
+			"TITLE": "Интегрированная среда разработки ",
 			"LIST": {
-				"1": "Contract<br />editor",
-				"2": "Database<br />administration tools",
-				"3": "Template engine<br />code editor",
-				"4": "Visual<br />interface designer"
+				"1": "Редактор<br /> контрактов",
+				"2": "Инструменты<br /> управления таблицами базы данных",
+				"3": "Редактор кода шаблонизатора<br /> ",
+				"4": "Визуальный<br /> конструктор интерфейсов "
 			}
 		},
 		"ACCESS": {
-			"TITLE": "Access control mechanism",
-			"TEXT": "One of the main advantages of Apla over other blockchain platforms is that it has a multi-level access rights management mechanism in the ecosystem software environment.",
+			"TITLE": "Механизм управления доступом",
+			"TEXT": "Одним из преимуществ платформы Apla перед другими блокчейн платформами является наличие в ней механизма многоуровневого управления правами доступа к данным и элементам приложений",
 			"DESCRIPTION": {
-				"1": "Access rights are set for all operations: creating and changing contracts, database tables, interfaces.",
-				"2": "Access rights can be provided to members of the ecosystem, to roles and to smart contracts."
+				"1": "Права доступа назначаются для всех операций: создание и изменение контрактов, таблиц баз данных и интерфейсов.",
+				"2": "Права доступа могут быть настроены для отдельных членов экосистемы, для ролей и для смарт-контрактов."
 			}
 		},
 		"PROSPECTS": {
-			"TITLE": "Development prospects for Apla",
-			"TEXT": "We listed above what is already working, what is already available in the testnet test network, and what will function when Apla’s working version is launched in September 2017.",
-			"HEAD": "What Apla will offer in the near future:",
+			"TITLE": "Перспективы развития платформы Apla",
+			"TEXT": "Выше мы описали функции, которые уже воплощены в системе, которые были доступны в тестовой сети testnet, и которые работают на Apla с момента её запуска в сентябре 2017.",
+			"HEAD": "Будущие функции Apla:",
 			"LIST": {
-				"1": "Visual smart contract editor and visual template editor",
-				"2": "Support for hybrid database (SQL&nbsp;and&nbsp;NoSQL)",
-				"3": "Mechanism for legal resolution of problems arising from attacks and vulnerabilities",
-				"4": "Tools for modeling complex management and business processes for implementation of eGovernment and digital economy",
-				"5": "Ontological shell for implementing a single semantic application design environment"
+				"1": "Визуальный редактор смарт-контрактов и визуальный редактор шаблонов",
+				"2": "Поддержка гибридных баз данных (SQL&nbsp;and&nbsp;NoSQL)",
+				"3": "Механизм правового решения проблем, связанных с атаками на уязвимости кода ",
+				"4": "Инструменты моделирования сложных управленческих и бизнес-процессов для электронных правительств и цифровой экономики",
+				"5": "Онтологическая оболочка для реализации единой семантической среды разработки приложений "
 			}
 		},
 		"ROADMAP": {
@@ -310,7 +310,7 @@
 				"1": "Октябрь",
 				"2": "Блокчейн",
 				"3": "Легкий программный клиент",
-				"4": "Виртуальные машины языков программирования (Simvolio and Protypo)",
+				"4": "Виртуальные машины языков программирования (Simvolio и Protypo)",
 				"5": "Программный клиент с интегрированной средой разработки (Molis)"
 			},
 			"2": {
@@ -425,7 +425,7 @@
 				"IMG": "../images/team/team_2.png",
 				"NAME": "Андрей Нечаев",
 				"PROFESSION": "Разработчик мобильных приложений",
-				"TEXT": "Более 5 лет опыта в разработке программного обеспечения.  Совершенное знание веб-стека, преимущественно backend (Erlang, Java and Python). Разрабатывал приложения, используя как front-end, так и высоконагруженный back-end. Имеет опыт  работы с мобильными платформами, опыт кросс-компиляции для всех популярных рабочих столов и мобильных платформ. В работе фокусировался преимущественно на отказоустойчивых распределенных службах и UX.",
+				"TEXT": "Более 5 лет опыта в разработке программного обеспечения.  Совершенное знание веб-стека, преимущественно backend (Erlang, Java и Python). Разрабатывал приложения, используя как front-end, так и высоконагруженный back-end. Имеет опыт  работы с мобильными платформами, опыт кросс-компиляции для всех популярных рабочих столов и мобильных платформ. В работе фокусировался преимущественно на отказоустойчивых распределенных службах и UX.",
 				"SOCIAL": [
 					{
 						"name": "facebook",
@@ -529,8 +529,8 @@
 				"COUNTRY": "netherlands",
 				"IMG": "../images/team/team_12.png",
 				"NAME": "Jesus Pena",
-				"PROFESSION": "Chief Operating Officer (COO)",
-				"TEXT": "Jesus Pena Garcia is 35 years old blockchain enthusiast, CMO in Apla - electronic platform for creation the blockchain ecosystems that provides possibilities for managing governmental processes with help of smart-contracts and smart-laws. Apla is the first platform which allows uniting of all state activities on the one blockchain. Also Jesus is founder and CEO of Bitbank, a Fintech company located in Luxembourg. He moved to Luxembourg in 2014 to launch his own business, obtaining financial support from Luxembourg Government for his projects. He joined Grant Thornton Luxembourg in October 2015, where he takes the post of director of the initiative called GT Technology HUB.",
+				"PROFESSION": " Директор по Маркетингу",
+				"TEXT": "Jesus Pena Garcia – Блокчейн-энтузиаст,  основатель и директор финансово-технологической компании Bitbank (Люксембург). С 2014 года ведет бизнес в Люксембурге при финансовой поддержке правительства Люксембурга. C октября 2015 года Директор Инициативы GT Technology HUB компании Grant Thornton Luxembourg.",
 				"SOCIAL": [
 					{
 						"name": "linkedin",
@@ -542,8 +542,8 @@
 				"COUNTRY": "netherlands",
 				"IMG": "../images/team/team_13.png",
 				"NAME": "Muhammed Arafath",
-				"PROFESSION": "Director Business Development",
-				"TEXT": "A graduate from Southern Cross University, Australia certified Blockchain business analyst, has 10+ years experience working with diverse verticals, industries and international markets. Currently exploring the intersection of artificial intelligence, blockchains and the internet of things. He is actively work with government and private organizations to help them adopt blockchain technology.",
+				"PROFESSION": "Директор по Развитию Бизнеса",
+				"TEXT": "Выпускник австралийского университета Southern Cross University, сертифицированный бизнес аналитик блокчейн, имеющий более чем 10-летний опыт работы в различных отраслях, вертикалях и международных рынках. В настоящий момент Мухаммед изучает интерграцию искусственного интеллекта, блокчейн-технологии и интернета вещей. Он активно работает с государственными и частными организациями, помогая им во внедрении технологии блокчейн.",
 				"SOCIAL": []
 			},
 			"13": {
@@ -559,7 +559,7 @@
 					}
 				]
 			},
-			"CONTACT": "We are expanding our team!<br />If you are an expert in golang, please <a href='mailto:hello@egaas.org'>send us your CV</a>.<br />Join the egaas team!"
+			"CONTACT": " Присоединяйся к команде Apla! <br />Если ты талантливый программист на golang, то не откладывая <a href='mailto:hello@egaas.org'> присылай нам своё резюме</a>. "
 		},
 		"BLOG": {
 			"TITLE": "Блог Apla"
@@ -614,8 +614,8 @@
 			"LIST": {
 				"1": "Реестры всех департаментов размещаются на одной блокчейн платформе",
 				"2": "Смарт-контракты обеспечивают взаимодействие всех реестров",
-				"3": "Правовая система на основе смарт-контрактов регламентирует выполнение смарт-контрактов",
-				"4": "Законодательная система обеспечивает проведение выборов в представительные органы власти и принятие смарт-законов"
+				"3": "Правовая система на основе смарт-законов регламентирует выполнение смарт-контрактов",
+				"4": "Правовая  система обеспечивает проведение выборов в представительные органы власти и принятие смарт-законов"
 			}
 		},
 		"DEPARTMENT": {
@@ -629,7 +629,7 @@
 				"6": "Экосистемы"
 			},
 			"TEXT": {
-				"1": "Для каждого департамента на платформе Apla создается своя экосистема, включающая: реестры, защищенные от фальсификации интерфейсы, смарт-контракты и смарт-нормативы, регламентирующих работу смарт-контрактов",
+				"1": "Для каждого департамента на платформе Apla создается своя экосистема, включающая: реестры, защищенные от фальсификации интерфейсы, смарт-контракты и смарт-законы, регламентирующих работу смарт-контрактов",
 				"2": "Секретную часть информации департамент может держать в своей базе данных, вынося в экосистему eGaaS только данные, необходимые для взаимодействия с другими департаментами и пользователями.",
 				"3": "Взаимодействие департаментов друг с другом, а также с физическими и юридическими лицами контролируется глобальными смарт-законами государственной платформы."
 			}
@@ -638,9 +638,9 @@
 			"TITLE": "Обязательный функционал e-Government",
 			"HEAD": "уже реализованный в экосистемах Apla",
 			"LIST": {
-				"1": "система управления выборными компаниями",
+				"1": "система управления избирательными  компаниями",
 				"2": "система учреждения и назначения должностей (ролей)",
-				"3": "Инструменты для проведения голосовани и опросов",
+				"3": "Инструменты для проведения голосований и опросов",
 				"4": "система оповещения персон и должностей о событиях"
 			}
 		},
@@ -648,10 +648,10 @@
 			"TITLE": "Преимущества платформы",
 			"TEXT": "ради которых стоит использовать Apla в качестве инструмента для построения e-Government",
 			"LIST": {
-				"1": "<strong>Низкие затраты</strong>на разворачивание блокчейн платформы и быстрота разработки приложений.",
-				"2": "<strong>полный контроль</strong>над правами доступа к данным",
-				"3": "<strong>Гибкое управление</strong>параметрами экосистем и платформы с помощью смарт-законов.",
-				"4": "<strong>единая цифровая среда</strong>возможность использования платформы Apla eGaas в качестве единой цифровой среды для реализации деятельности в любых сферах (финансовой, бизнес, социальной)"
+				"1": "<strong>Низкие затраты</strong> на разворачивание блокчейн платформы и быстрота разработки приложений.",
+				"2": "<strong>полный контроль</strong> над правами доступа к данным",
+				"3": "<strong>Гибкое управление</strong> параметрами экосистем и платформы с помощью смарт-законов.",
+				"4": "<strong>единая цифровая среда</strong> возможность использования платформы Apla eGaas в качестве единой цифровой среды для реализации деятельности в любых сферах (финансовой, бизнес, социальной)"
 			}
 		}
 	},
@@ -669,23 +669,23 @@
 				"2": "это автономные цифровые среды, в которых исходно реализовано"
 			},
 			"LIST": {
-				"1": "Хранение данных с предельной защитой их несанкционированной модификации",
+				"1": "Хранение данных с предельной защитой их от несанкционированной модификации",
 				"2": "Многоуровневая структура управления правами доступа к данным и приложениям на основе ролей",
-				"3": "Смарт-контракты-программные модули, выполняющие операции с данными с сохранением их достоверности",
-				"4": "Смарт-законы-программные модули, устанавливающих условия и ограничения на выполнение смарт-контрактов"
+				"3": "Смарт-контракты - программные модули, выполняющие операции с данными с сохранением их достоверности",
+				"4": "Смарт-законы - программные модули, устанавливающие условия и ограничения на выполнение смарт-контрактов"
 			}
 		},
 		"FUNCTIONAL": {
-			"TITLE": "Необходимость платформы",
-			"TEXT": "Платформа Apla for Business прежде всего необходима для организации экономической деятельности, в которой множеству контрагентов необходимо иметь постоянный и надежный доступ к единому потоку событий, причем данные о событиях должны быть предельно защищены от фальсификации.",
+			"TITLE": "Необходимость в платформе",
+			"TEXT": "Платформа Apla for Business прежде всего необходима для организации экономической деятельности, в которой множеству контрагентов нужно  иметь постоянный и надежный доступ к единому потоку событий, причем данные о событиях должны быть предельно защищены от фальсификации.",
 			"HEAD": "Это такие бизнесы как:",
 			"LIST": {
 				"1": "Система управления цепями поставок",
 				"2": "Коллективное использование ресурсов",
-				"3": "Умные дома и умные вещи (интернет-вещей)",
+				"3": "Умные дома и умные вещи (интернет вещей)",
 				"4": "Фондовые биржи и краудфандинг",
-				"5": "сервис подписания и изменения контрактов",
-				"6": "сервис автоматизации заказов",
+				"5": "Сервис подписания и изменения контрактов",
+				"6": "Сервис автоматизации заказов",
 				"7": "Прямые продажи",
 				"8": "Бонусные системы"
 			}
