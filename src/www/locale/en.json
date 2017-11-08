@@ -519,15 +519,31 @@
 			},
 			"10": {
 				"COUNTRY": "russia",
+				"IMG": "../images/team/team_10.png",
+				"NAME": "Igor Podzigun",
+				"PROFESSION": "International Business Development Director (IBDD)",
+				"TEXT": "Mr. Igor Podzigun is the Director of International Business Development for Apla. He is an expert in finance and is a blockchain enthusiast with over 14 years experience in both the public and private  sector. Mr. Podzigun’s areas of expertise include communications, staff administration, and business planning and development. He has worked with internationally recognized brands including Volvo, PSA, Volkswagen, Mako Furniture, Mercator, Betsema, Metro CC, Auchan, Streudal, OBI, Volvo, Metro Group Real, Berlin-Chemie, Walmart, Media Markt, SSang Yong Engineering & Construction, and Globus Hypermarkets. Mr. Podzigun has also been a participant in working groups on the governmental level.",
+				"SOCIAL": []
+			},
+			"11": {
+				"COUNTRY": "",
 				"IMG": "../images/team/team_11.png",
+				"NAME": "Youssef Daoud",
+				"PROFESSION": "SMM-manager",
+				"TEXT": "Mr. Youssef Daoud is a Social Media Marketing Manager for Apla. Having a comprehensive knowledge of programming languages and software development, Mr. Daoud is an expert in the field of computer engineering and in providing digital solutions. A fluent speaker of Arabic, French, and English, Mr. Daoud holds a Master's degree in Project Management and has extensive experience in data warehousing and information systems technical support.",
+				"SOCIAL": []
+			},
+			"12": {
+				"COUNTRY": "russia",
+				"IMG": "../images/team/team_12.png",
 				"NAME": "Yevgeny Lerner",
 				"PROFESSION": "Backend Developer",
 				"TEXT": "A programmer/developer of complex software solutions, Master in Applied Mathematics. Some of the major projects include: as system for real time transport monitoring, a software complex similar to Dropbox, a system for network devices monitoring. Programming experience – over 10 years.",
 				"SOCIAL": []
 			},
-			"11": {
+			"13": {
 				"COUNTRY": "netherlands",
-				"IMG": "../images/team/team_12.png",
+				"IMG": "../images/team/team_13.png",
 				"NAME": "Jesus Pena",
 				"PROFESSION": "Chief Operating Officer (COO)",
 				"TEXT": "Jesus Pena Garcia is 35 years old blockchain enthusiast, CMO in Apla - electronic platform for creation the blockchain ecosystems that provides possibilities for managing governmental processes with help of smart-contracts and smart-laws. Apla is the first platform which allows uniting of all state activities on the one blockchain. Also Jesus is founder and CEO of Bitbank, a Fintech company located in Luxembourg. He moved to Luxembourg in 2014 to launch his own business, obtaining financial support from Luxembourg Government for his projects. He joined Grant Thornton Luxembourg in October 2015, where he takes the post of director of the initiative called GT Technology HUB.",
@@ -538,17 +554,17 @@
 					}
 				]
 			},
-			"12": {
+			"14": {
 				"COUNTRY": "netherlands",
-				"IMG": "../images/team/team_13.png",
+				"IMG": "../images/team/team_14.png",
 				"NAME": "Muhammed Arafath",
 				"PROFESSION": "Director Business Development",
 				"TEXT": "A graduate from Southern Cross University, Australia certified Blockchain business analyst, has 10+ years experience working with diverse verticals, industries and international markets. Currently exploring the intersection of artificial intelligence, blockchains and the internet of things. He is actively work with government and private organizations to help them adopt blockchain technology.",
 				"SOCIAL": []
 			},
-			"13": {
+			"15": {
 				"COUNTRY": "netherlands",
-				"IMG": "../images/team/team_14.png",
+				"IMG": "../images/team/team_15.png",
 				"NAME": "Oleg Strelenko",
 				"PROFESSION": "Founder & Chief Executive Officer (CEO)",
 				"TEXT": "Blockchain developer with 5 years of work experience. Developed decentralized electronic currency DCoin (80k lines of Go code) from scratch. He is known in the Russian IT community as Dmitry Kharitonov. For over 10 years, he has developed his own projects and managed IT teams.",
