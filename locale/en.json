@@ -526,7 +526,7 @@
 				"SOCIAL": []
 			},
 			"11": {
-				"COUNTRY": "",
+				"COUNTRY": "egypt",
 				"IMG": "../images/team/team_11.png",
 				"NAME": "Youssef Daoud",
 				"PROFESSION": "SMM-manager",
@@ -542,8 +542,16 @@
 				"SOCIAL": []
 			},
 			"13": {
-				"COUNTRY": "netherlands",
+				"COUNTRY": "latvia",
 				"IMG": "../images/team/team_13.png",
+				"NAME": "Alexander Korzhanov",
+				"PROFESSION": "Digital Marketing Director",
+				"TEXT": "Mr. Alexander Korzhanov, Digital Marketing Director, originally from Riga (Latvia) with over 8 years Marketing experience. He has a proven track record in PR and Marketing, Social Media Management, Community Management and People Management in several successful ICO projects with +45,000,000 USD collected totally.",
+				"SOCIAL": []
+			},
+			"14": {
+				"COUNTRY": "netherlands",
+				"IMG": "../images/team/team_14.png",
 				"NAME": "Jesus Pena",
 				"PROFESSION": "Chief Operating Officer (COO)",
 				"TEXT": "Jesus Pena Garcia is 35 years old blockchain enthusiast, CMO in Apla - electronic platform for creation the blockchain ecosystems that provides possibilities for managing governmental processes with help of smart-contracts and smart-laws. Apla is the first platform which allows uniting of all state activities on the one blockchain. Also Jesus is founder and CEO of Bitbank, a Fintech company located in Luxembourg. He moved to Luxembourg in 2014 to launch his own business, obtaining financial support from Luxembourg Government for his projects. He joined Grant Thornton Luxembourg in October 2015, where he takes the post of director of the initiative called GT Technology HUB.",
@@ -554,17 +562,17 @@
 					}
 				]
 			},
-			"14": {
+			"15": {
 				"COUNTRY": "netherlands",
-				"IMG": "../images/team/team_14.png",
+				"IMG": "../images/team/team_15.png",
 				"NAME": "Muhammed Arafath",
 				"PROFESSION": "Director Business Development",
 				"TEXT": "A graduate from Southern Cross University, Australia certified Blockchain business analyst, has 10+ years experience working with diverse verticals, industries and international markets. Currently exploring the intersection of artificial intelligence, blockchains and the internet of things. He is actively work with government and private organizations to help them adopt blockchain technology.",
 				"SOCIAL": []
 			},
-			"15": {
+			"16": {
 				"COUNTRY": "netherlands",
-				"IMG": "../images/team/team_15.png",
+				"IMG": "../images/team/team_16.png",
 				"NAME": "Oleg Strelenko",
 				"PROFESSION": "Founder & Chief Executive Officer (CEO)",
 				"TEXT": "Blockchain developer with 5 years of work experience. Developed decentralized electronic currency DCoin (80k lines of Go code) from scratch. He is known in the Russian IT community as Dmitry Kharitonov. For over 10 years, he has developed his own projects and managed IT teams.",
