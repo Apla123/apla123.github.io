@@ -3,7 +3,7 @@
 	
 	angular.module('app', ['pascalprecht.translate', 'ui.router', 'ngMaterial', 'ngMessages', 'angular-loading-bar', 'ngSanitize', 'ngScrollReveal', 'ksSwiper', 'duScroll', 'ngCookies', 'ngScrollbars']);
 	
-	angular.module('app').run(function($rootScope, $window, $location){
+	angular.module('app').run(function($rootScope, $window, $location, $http){
 		if (localStorage.getItem("NG_TRANSLATE_LANG_KEY")) {
 			$rootScope.lang = localStorage.getItem("NG_TRANSLATE_LANG_KEY");
 		} else {
@@ -107,6 +107,18 @@
 				domEl.parentNode.style = "";
 			}
 		};
+		
+		function getSocial () {
+			$http({
+				method : 'GET',
+				url    : '/social.json'
+			})
+			.then(function(response) {
+				$rootScope.social = response.data;
+			});
+		}
+		
+		getSocial ();
 	
 		if (getMobileOperatingSystem() === "iOS") {
 			$rootScope.isiOS = true;

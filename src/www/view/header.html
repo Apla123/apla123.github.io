@@ -14,10 +14,7 @@
 	<md-icon md-svg-src="images/logo.svg" aria-label="logo "></md-icon>
 	<div>
 		<div class="soc">
-			<a href="https://www.facebook.com/aplaproject/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-			<a href="https://twitter.com/egaasproject" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-			<a href="https://blog.apla.io/" target="_blank"><i class="fa fa-medium" aria-hidden="true"></i></a>
-			<!--<a href="https://github.com/EGaaS/go-egaas-mvp" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>-->
+			<a href="{{ item.url }}" target="_blank" ng-repeat="item in social | objLimitTo: 3"><i class="fa {{ item.icon }}" aria-hidden="true"></i></a>
 		</div>
 		<md-menu md-position-mode="target-right target" ng-controller="LanguageSwitchCtrl">
 			<md-button ng-click="openLanguage($mdMenu, $event)">{{ 'LANGUAGE' | translate }} <md-icon md-menu-origin md-svg-src="images/icon/ic_keyboard_arrow_down_48px.svg"></md-icon></md-button>

@@ -70,7 +70,7 @@
 		$scope.navigation = function() {
 			var w = window.innerWidth;
 			
-			if (w < 1025) {
+			if (w < 1201) {
 				$scope.isActive = !$scope.isActive;
 
 				if ($scope.isActive) {

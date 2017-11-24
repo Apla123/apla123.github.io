@@ -8,13 +8,7 @@
 	<div class="container-fluid">
 		<p ng-scroll-reveal="default">&copy; {{GetYear}} {{ 'FOOTER.COPYRIGHT' | translate }}</p>
 		<div class="soc" ng-scroll-reveal="sequence">
-			<a href="https://www.facebook.com/aplaproject/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-			<a href="https://twitter.com/egaasproject" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-			<a href="https://blog.apla.io/" target="_blank"><i class="fa fa-medium" aria-hidden="true"></i></a>
-			<a href="http://telegram.me/eGaaS" target="_blank"><i class="fa fa-paper-plane" aria-hidden="true"></i></a>
-			<a href="https://github.com/AplaProject/go-apla/" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
-			<a href="https://slack.apla.io/" target="_blank"><i class="fa fa-slack" aria-hidden="true"></i></a>
-			<a href="https://www.youtube.com/channel/UCLAccwf_YvWGnxSIVgGtl7g" target="_blank"><i class="fa fa-youtube" aria-hidden="true"></i></a>
+			<a href="{{ item.url }}" target="_blank" ng-repeat="item in social"><i class="fa {{ item.icon }}" aria-hidden="true"></i></a>
 		</div>
 	</div>
 </div>
