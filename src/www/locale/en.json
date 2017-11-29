@@ -1,4 +1,4 @@
-﻿{
+{
 	"LANG": "en",
 	"LANGUAGE": "En",
 	"TITLE": "Apla - Public blockchain platform for building digital ecosystems",
@@ -412,7 +412,7 @@
 				"IMG": "../images/team/team_1.png",
 				"NAME": "Vitaly Bondar",
 				"PROFESSION": "Chief Legal Officer (CLO)",
-				"TEXT": "Vitaly is a Russian qualified lawyer and Legal Director of the Luxembourg based law firm ChristmannSchmitt. He is an expert in e-commerce and private international law matters. In the past 15 years, he has been holding senior positions at large international law firms and industrial companies with a focus on cross-border M&A deals and transaction structuring.  Vitaly graduated from the law faculty of Kuban State University, Russia, in 1999, and further obtained a postgraduate diploma (L.L.M) in International Banking and Commercial Law in 2001 from Queen Mary University in London.",
+				"TEXT": "Vitaly is a certified Russian legal expert and CEO of the Luxembourg-based law firm ChristmannSchmitt. He specializes in e-commerce and private international law matters. Over the past 15 years, he has held senior positions at large international law firms and industrial companies with a focus on cross-border mergers and acquisitions, and transaction structuring. Vitaly graduated from  Kuban State University Faculty of Law in 1999, and further obtained a postgraduate diploma (L.L.M) in International Banking and Commercial Law in 2001 from Queen Mary University in London.",
 				"SOCIAL": [
 					{
 						"name": "facebook",
@@ -425,7 +425,7 @@
 				"IMG": "../images/team/team_2.png",
 				"NAME": "Andrey Nechaev",
 				"PROFESSION": "Mobile APP Developer",
-				"TEXT": "More than 5 years of experience in Software development. Excellent understanding of Web stack, mostly backend (Erlang, Java and Python). Developed applications on both front-end and high-loaded back-end sides. Experience with the most popular mobile platforms, cross-compilation for all popular desktop and mobile platforms. Focused on fault-tolerant distributed services and UX.",
+				"TEXT": "Andrey has more than 5 years of experience in Software development, and has an excellent understanding of Web stack with a focus on back-end (Erlang, Java, and Python). Andrey has developed applications on both front-end and high-loaded back-end sides. He has experience working with popular mobile platforms, cross-compilation for all popular desktop and mobile platforms, and is highly regarded for his exceptional expertise in fault-tolerant distributed services and UX.",
 				"SOCIAL": [
 					{
 						"name": "facebook",
@@ -440,9 +440,9 @@
 			"3": {
 				"COUNTRY": "indonesia",
 				"IMG": "../images/team/team_3.png",
-				"NAME": "Lukman NH",
+				"NAME": "Lukman Nh»,
 				"PROFESSION": "Media & Public Relations Manager",
-				"TEXT": "Blockchain Creative Publisher, Working in mineral Laboratory for government mining company, Passionated for blockchain implementation, 3 year experience in creative writing for blockchain development and promotion.",
+				"TEXT": "A Blockchain enthusiast, and published author of many  blockchain-related articles in various science and technology journals. Having worked in a Minerals Laboratory for a government-owned mining company, Lukman became passionate about blockchain implementation. For the past 3 years he has been actively involved in development and promotion of blockchain projects.»,
 				"SOCIAL": []
 			},
 			"4": {
@@ -450,7 +450,7 @@
 				"IMG": "../images/team/team_4.png",
 				"NAME": "Anna Nosova",
 				"PROFESSION": "Business Development Manager",
-				"TEXT": "Psychologist. 4 years of experience in the field of project promotion. 2 years of experience in the organization and management of social projects. Cooperated with international environmental and volunteer organizations: Peace Corp, Spare, Biomass Project, United Nations Development Programme. Is the author of the educational program and a number of scientific articles.",
+				"TEXT": "Anna holds a Master's degree in Psychology, has 5 years experience in the field of project promotion, and 2 years of experience in organization and management of social projects. She has cooperated and worked with international environmental and volunteer organizations, including: Peace Corp, Spare, and the Biomass Project implemented under the United Nations Development Program.",
 				"SOCIAL": [
 					{
 						"name": "facebook",
@@ -463,7 +463,7 @@
 				"IMG": "../images/team/team_5.png",
 				"NAME": "Yuriy Lomakin",
 				"PROFESSION": "UX/UI Developer",
-				"TEXT": "Front-end developer with 10-years experience. Worked in the team charmerstudio.com, developing major news portal lenta.ru.",
+				"TEXT": "FYuriy is a front-end developer with 10 years of experience. He was an integral part of the charmerstudio.com team and their work on the development of a major news portal, lenta.ru.",
 				"SOCIAL": [
 					{
 						"name": "facebook",
@@ -478,9 +478,9 @@
 			"6": {
 				"COUNTRY": "russia",
 				"IMG": "../images/team/team_6.png",
-				"NAME": "Aleksandr Boldachev",
+				"NAME": "Alexander Boldachev",
 				"PROFESSION": "Advisory Board Member",
-				"TEXT": "Philosopher, analyst, member of the Association of Russian Futurologists. Main research areas: global evolutionism, temporal ontology, philosophy of artificial intelligence, futurology. In recent years, he worked on creation of subject-event approach to complex systems modeling.",
+				"TEXT": "Alexander is a philosopher, analyst, and member of the Association of Russian Futurologists. His primary areas of interest and research are: global evolutionism, temporal ontology, philosophy of artificial intelligence, and futurology. In recent years, he has worked on the creation of a subject-event approach to complex systems modeling..",
 				"SOCIAL": [
 					{
 						"name": "wikipedia-w",
@@ -493,7 +493,7 @@
 				"IMG": "../images/team/team_7.png",
 				"NAME": "Alexey Krivonogov",
 				"PROFESSION": "Full Stack Developer",
-				"TEXT": "A professional C/C++ programmer with 24 years of experience. Graduated from Novosibirsk State University in 1992 with a degree in mathematics and applied mathematics. Developed programming language Gentee from scratch. Developed personal data store Eonza.",
+				"TEXT": "A professional C/C++ programmer with 24 years of experience. Alexey graduated from Novosibirsk State University in 1992 with a degree in mathematics and applied mathematics. He personally developed the programming language Gentee from the ground up, along with the personal datastore Eonza.",
 				"SOCIAL": [
 					{
 						"name": "linkedin",
@@ -506,7 +506,7 @@
 				"IMG": "../images/team/team_8.png",
 				"NAME": "Igor Chertov",
 				"PROFESSION": "UX/UI Developer",
-				"TEXT": "Front-end developer with more than five years of experience in the web stack. Certified Microsoft developer (MCSD). Recent work includes several mobile applications and websites for various educational facilities.",
+				"TEXT": "Igor is a front-end developer with more than five years of experience using the most advanced web stack. A Certified Microsoft Developer (MCSD), his recent work includes the development of several mobile applications and websites for various state educational institutions.»,
 				"SOCIAL": []
 			},
 			"9": {
@@ -514,7 +514,7 @@
 				"IMG": "../images/team/team_9.png",
 				"NAME": "Roman Potekhin",
 				"PROFESSION": "Backend Developer",
-				"TEXT": "Over 10 years of experience as a Python 2.x, Erlang, and golang programmer, and a NoSQL and column-store database specialist. Functional programming expert. Was involved in implementation of projects for major Russian companies including Megafon and Sports.ru",
+				"TEXT": "Roman has over 10 years of experience as a Python 2.x, Erlang, and golang programmer, and as a NoSQL and column-store database specialist. As a functional programming expert,  he has been involved in the implementation of several projects for major Russian companies, including Megafon and Sports.ru.»,
 				"SOCIAL": []
 			},
 			"10": {
@@ -538,7 +538,7 @@
 				"IMG": "../images/team/team_12.png",
 				"NAME": "Yevgeny Lerner",
 				"PROFESSION": "Backend Developer",
-				"TEXT": "A programmer/developer of complex software solutions, Master in Applied Mathematics. Some of the major projects include: as system for real time transport monitoring, a software complex similar to Dropbox, a system for network devices monitoring. Programming experience – over 10 years.",
+				"TEXT": "A programmer/developer with over 10 years of experience in complex software solutions. Yevegeny holds a Master’s degree in Applied Mathematics. Some of the major projects he has contributed to include: a system for real-time transportation monitoring, a software complex similar to Dropbox, and a system for monitoring network devices.",
 				"SOCIAL": []
 			},
 			"13": {
@@ -554,7 +554,7 @@
 				"IMG": "../images/team/team_14.png",
 				"NAME": "Jesus Pena",
 				"PROFESSION": "Chief Operating Officer (COO)",
-				"TEXT": "Jesus Pena Garcia is 35 years old blockchain enthusiast, CMO in Apla - electronic platform for creation the blockchain ecosystems that provides possibilities for managing governmental processes with help of smart-contracts and smart-laws. Apla is the first platform which allows uniting of all state activities on the one blockchain. Also Jesus is founder and CEO of Bitbank, a Fintech company located in Luxembourg. He moved to Luxembourg in 2014 to launch his own business, obtaining financial support from Luxembourg Government for his projects. He joined Grant Thornton Luxembourg in October 2015, where he takes the post of director of the initiative called GT Technology HUB.",
+				"TEXT": "Jesus Pena Garcia is a blockchain enthusiast, and the COO at Apla.  He is the founder and CEO of Bitbank – a Fintech company located in Luxembourg. He moved to Luxembourg in 2014 to launch his own business, and was granted financial support from the Government of Luxembourg for his projects. He joined Grant Thornton in October 2015, where he accepted the post of GT Technology HUB Initiative Director.",
 				"SOCIAL": [
 					{
 						"name": "linkedin",
@@ -567,15 +567,15 @@
 				"IMG": "../images/team/team_15.png",
 				"NAME": "Muhammed Arafath",
 				"PROFESSION": "Director Business Development",
-				"TEXT": "A graduate from Southern Cross University, Australia certified Blockchain business analyst, has 10+ years experience working with diverse verticals, industries and international markets. Currently exploring the intersection of artificial intelligence, blockchains and the internet of things. He is actively work with government and private organizations to help them adopt blockchain technology.",
+				"TEXT": "A graduate from Southern Cross University in Australia, Muhammed is a certified Blockchain business analyst, and has 10+ years of experience working with diverse verticals, industries and international markets. He is currently exploring the intersection between artificial intelligence, blockchains, and the internet of things. He actively works with governmental and private organizations to help them adopt blockchain technology.",
 				"SOCIAL": []
 			},
 			"16": {
 				"COUNTRY": "netherlands",
 				"IMG": "../images/team/team_16.png",
 				"NAME": "Oleg Strelenko",
-				"PROFESSION": "Founder & Chief Executive Officer (CEO)",
-				"TEXT": "Blockchain developer with 5 years of work experience. Developed decentralized electronic currency DCoin (80k lines of Go code) from scratch. He is known in the Russian IT community as Dmitry Kharitonov. For over 10 years, he has developed his own projects and managed IT teams.",
+				"PROFESSION": "Founder & CEO at eGaas/Apla.io, blockchain developer»,
+				"TEXT": «Oleg is a Blockchain developer with 5 years of experience working on various projects. He developed the decentralized electronic currency DCoin (80k lines of Go code) entirely on his own. He is known in the Russian IT community as Dmitry Kharitonov. For the last 10 years he has been developing his own projects and managing IT teams.",
 				"SOCIAL": [
 					{
 						"name": "facebook",
