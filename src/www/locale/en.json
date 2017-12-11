@@ -421,31 +421,14 @@
 				]
 			},
 			"2": {
-				"COUNTRY": "united-states",
-				"IMG": "../images/team/team_2.png",
-				"NAME": "Andrey Nechaev",
-				"PROFESSION": "Mobile APP Developer",
-				"TEXT": "Andrey has more than 5 years of experience in Software development, and has an excellent understanding of Web stack with a focus on back-end (Erlang, Java, and Python). Andrey has developed applications on both front-end and high-loaded back-end sides. He has experience working with popular mobile platforms, cross-compilation for all popular desktop and mobile platforms, and is highly regarded for his exceptional expertise in fault-tolerant distributed services and UX.",
-				"SOCIAL": [
-					{
-						"name": "facebook",
-						"link": "https://www.facebook.com/nechaev.a.v"
-					},
-					{
-						"name": "linkedin",
-						"link": "https://www.linkedin.com/in/nechaevandrei"
-					}
-				]
-			},
-			"3": {
 				"COUNTRY": "indonesia",
 				"IMG": "../images/team/team_3.png",
-				"NAME": "Lukman Nh",
+				"NAME": "Lukman Nul Hakim",
 				"PROFESSION": "Media & Public Relations Manager",
 				"TEXT": "A Blockchain enthusiast, and published author of many  blockchain-related articles in various science and technology journals. Having worked in a Minerals Laboratory for a government-owned mining company, Lukman became passionate about blockchain implementation. For the past 3 years he has been actively involved in development and promotion of blockchain projects.",
 				"SOCIAL": []
 			},
-			"4": {
+			"3": {
 				"COUNTRY": "ukraine",
 				"IMG": "../images/team/team_4.png",
 				"NAME": "Anna Nosova",
@@ -458,7 +441,7 @@
 					}
 				]
 			},
-			"5": {
+			"4": {
 				"COUNTRY": "ukraine",
 				"IMG": "../images/team/team_5.png",
 				"NAME": "Yuriy Lomakin",
@@ -475,7 +458,7 @@
 					}
 				]
 			},
-			"6": {
+			"5": {
 				"COUNTRY": "russia",
 				"IMG": "../images/team/team_6.png",
 				"NAME": "Alexander Boldachev",
@@ -488,7 +471,7 @@
 					}
 				]
 			},
-			"7": {
+			"6": {
 				"COUNTRY": "russia",
 				"IMG": "../images/team/team_7.png",
 				"NAME": "Alexey Krivonogov",
@@ -501,7 +484,7 @@
 					}
 				]
 			},
-			"8": {
+			"7": {
 				"COUNTRY": "russia",
 				"IMG": "../images/team/team_8.png",
 				"NAME": "Igor Chertov",
@@ -509,7 +492,7 @@
 				"TEXT": "Igor is a front-end developer with more than five years of experience using the most advanced web stack. A Certified Microsoft Developer (MCSD), his recent work includes the development of several mobile applications and websites for various state educational institutions.",
 				"SOCIAL": []
 			},
-			"9": {
+			"8": {
 				"COUNTRY": "indonesia",
 				"IMG": "../images/team/team_9.png",
 				"NAME": "Roman Potekhin",
@@ -517,7 +500,7 @@
 				"TEXT": "Roman has over 10 years of experience as a Python 2.x, Erlang, and golang programmer, and as a NoSQL and column-store database specialist. As a functional programming expert,  he has been involved in the implementation of several projects for major Russian companies, including Megafon and Sports.ru.",
 				"SOCIAL": []
 			},
-			"10": {
+			"9": {
 				"COUNTRY": "russia",
 				"IMG": "../images/team/team_10.png",
 				"NAME": "Igor Podzigun",
@@ -525,7 +508,7 @@
 				"TEXT": "Mr. Igor Podzigun is the Director of International Business Development for Apla. He is an expert in finance and is a blockchain enthusiast with over 14 years experience in both the public and private  sector. Mr. Podzigun’s areas of expertise include communications, staff administration, and business planning and development. He has worked with internationally recognized brands including Volvo, PSA, Volkswagen, Mako Furniture, Mercator, Betsema, Metro CC, Auchan, Streudal, OBI, Volvo, Metro Group Real, Berlin-Chemie, Walmart, Media Markt, SSang Yong Engineering & Construction, and Globus Hypermarkets. Mr. Podzigun has also been a participant in working groups on the governmental level.",
 				"SOCIAL": []
 			},
-			"11": {
+			"10": {
 				"COUNTRY": "egypt",
 				"IMG": "../images/team/team_11.png",
 				"NAME": "Youssef Daoud",
@@ -533,7 +516,7 @@
 				"TEXT": "Mr. Youssef Daoud is a Social Media Marketing Manager for Apla. Having a comprehensive knowledge of programming languages and software development, Mr. Daoud is an expert in the field of computer engineering and in providing digital solutions. A fluent speaker of Arabic, French, and English, Mr. Daoud holds a Master's degree in Project Management and has extensive experience in data warehousing and information systems technical support.",
 				"SOCIAL": []
 			},
-			"12": {
+			"11": {
 				"COUNTRY": "russia",
 				"IMG": "../images/team/team_12.png",
 				"NAME": "Yevgeny Lerner",
@@ -541,7 +524,7 @@
 				"TEXT": "A programmer/developer with over 10 years of experience in complex software solutions. Yevegeny holds a Master’s degree in Applied Mathematics. Some of the major projects he has contributed to include: a system for real-time transportation monitoring, a software complex similar to Dropbox, and a system for monitoring network devices.",
 				"SOCIAL": []
 			},
-			"13": {
+			"12": {
 				"COUNTRY": "latvia",
 				"IMG": "../images/team/team_13.png",
 				"NAME": "Alexander Korzhanov",
@@ -549,7 +532,7 @@
 				"TEXT": "Mr. Alexander Korzhanov, Digital Marketing Director, originally from Riga (Latvia) with over 8 years Marketing experience. He has a proven track record in PR and Marketing, Social Media Management, Community Management and People Management in several successful ICO projects with +45,000,000 USD collected totally.",
 				"SOCIAL": []
 			},
-			"14": {
+			"13": {
 				"COUNTRY": "netherlands",
 				"IMG": "../images/team/team_14.png",
 				"NAME": "Jesus Pena",
@@ -562,7 +545,7 @@
 					}
 				]
 			},
-			"15": {
+			"14": {
 				"COUNTRY": "netherlands",
 				"IMG": "../images/team/team_15.png",
 				"NAME": "Muhammed Arafath",
@@ -570,7 +553,7 @@
 				"TEXT": "A graduate from Southern Cross University in Australia, Muhammed is a certified Blockchain business analyst, and has 10+ years of experience working with diverse verticals, industries and international markets. He is currently exploring the intersection between artificial intelligence, blockchains, and the internet of things. He actively works with governmental and private organizations to help them adopt blockchain technology.",
 				"SOCIAL": []
 			},
-			"16": {
+			"15": {
 				"COUNTRY": "netherlands",
 				"IMG": "../images/team/team_16.png",
 				"NAME": "Oleg Strelenko",
