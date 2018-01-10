@@ -1,6 +1,5 @@
 module.exports = function (gulp, modules, dir) {
 	return function() {
-		
 		return gulp.src([
 			dir.folder + '/**',
 			dir.folder + '/.htaccess',

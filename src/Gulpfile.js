@@ -1,14 +1,13 @@
-
 var gulp = require('gulp');
 var gulpLoadPlugins = require('gulp-load-plugins');
 var modules = require('gulp-load-plugins')({
 	rename: {
 		'gulp-minify-html': 'htmlMinify',
-		'gulp-minify-css': 'cssMinify',
-		'gulp-ruby-sass': 'rubySass',
+		'gulp-minify-css': 'cssMinify'
 	}
 });
 
+modules.sass = require('gulp-sass');
 modules.webserver = require('gulp-webserver');
 modules.gcmq = require('gulp-group-css-media-queries');
 modules.stripCssComments = require('gulp-strip-css-comments');
@@ -33,6 +32,7 @@ var dir = new function(){
 	
 	this.js     = this.folder + '/js';
 	this.css    = this.folder + '/css';
+	this.scss    = this.folder + '/sass';
 	this.img    = this.folder + '/images';
 	this.dist_css   = this.dist + '/css';
 	this.dist_img   = this.dist + '/images';
@@ -55,8 +55,21 @@ gulp.task('images', getTask('images'));
 gulp.task('csso', getTask('csso'));
 gulp.task('distcopy', getTask('distcopy'));
 
-gulp.task('build', function() {
+gulp.task('watch', function() {
+	gulp.watch([dir.scss.slice(2) + '/*.{sass,scss}'], ['styles']);
+	modules.livereload.listen();
 	
+	return gulp.watch([
+		dir.folder.slice(2) + '/*.html',
+		dir.js.slice(2) + '/*.js',
+		dir.css.slice(2) + '/style.css',
+		dir.img.slice(2) + '/**'
+	])
+	.on('change', modules.livereload.changed);
+
+});
+
+gulp.task('build', function() {
 	modules.sequence = require('run-sequence');
 	modules.sequence(
 		'distcopy',
@@ -67,3 +80,14 @@ gulp.task('build', function() {
 		'htmlmin'
 	);
 });
+
+gulp.task('webserver', ['watch'], function() {
+  gulp.src(dir.folder)
+    .pipe(modules.webserver({
+      livereload: true,
+      directoryListing: false,
+      open: true
+    }));
+});
+
+gulp.task('default', ['webserver']);
