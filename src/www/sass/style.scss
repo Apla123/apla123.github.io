@@ -2034,7 +2034,7 @@ header {
 				}
 			}
 			p {
-				flex: auto;
+				flex: 1;
 				display: flex;
 				justify-content: center;
 				align-items: center;
@@ -2042,6 +2042,8 @@ header {
 				min-width: 278px;
 				height: 308px;
 				background-color: $white;
+				padding-left: 10px;
+				padding-right: 10px;
 				margin-left: 10px;
 				margin-right: 10px;
 				margin-bottom: 32px;

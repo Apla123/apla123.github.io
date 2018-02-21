@@ -6182,9 +6182,9 @@ header .aside > div md-menu md-icon svg {
 }
 
 .main__team section p {
-  -webkit-flex: auto;
-      -ms-flex: auto;
-          flex: auto;
+  -webkit-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
@@ -6198,6 +6198,8 @@ header .aside > div md-menu md-icon svg {
   min-width: 278px;
   height: 308px;
   background-color: #ffffff;
+  padding-left: 10px;
+  padding-right: 10px;
   margin-left: 10px;
   margin-right: 10px;
   margin-bottom: 32px;
