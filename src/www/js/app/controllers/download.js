@@ -3,9 +3,11 @@
 
 	angular.module('app').controller('DownloadCtrl', DownloadCtrl);
 	
-	DownloadCtrl.$inject = ['$scope', '$http'];
+	DownloadCtrl.$inject = ['$rootScope', '$scope', '$http'];
 	
-	function DownloadCtrl($scope, $http){
+	function DownloadCtrl($rootScope, $scope, $http){
+		$rootScope.downloadPage = true;
+		
 		function getVersion () {
 			$http({
 				method : 'GET',
@@ -35,5 +37,9 @@
 				TweenMax.to(elem, 0.5, {className:"+=active"});
 			}
 		};
+		
+		$scope.$on('$destroy', function() {
+			$rootScope.downloadPage = false;
+		});
 	}
 })();

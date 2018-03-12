@@ -20,6 +20,28 @@ body {
 		font-size:16px;
 		line-height:28px;
 	}
+	&.downloadPage {
+		display: flex;
+		flex-flow: column nowrap;
+		min-height: 100%;
+		.page {
+			flex: 1;
+			min-height: 250px;
+			.download {
+				height: 100%;
+				.temp {
+					display: flex;
+					justify-content: center;
+					align-content: center;
+					align-items: center;
+					position: relative;
+					background-color: $white;
+					height: 100%;
+					text-align: center;
+				}
+			}
+		}
+	}
 }
 h1 {
 	@include text(fG-xbold, 92px, $black, 96px, none);

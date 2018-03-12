@@ -565,6 +565,7 @@
 		}
 	},
 	"DOWNLOAD": {
+		"TEMP": "The apps will be available at the launch of the Apla platform. Please follow the announcement from the Apla team.",
 		"LITE": {
 			"HEAD": "Apla v1.0 Lite beta",
 			"TEXT1": "Вы можете запустить приложение и сразу начать работу, нет необходимости ждать синхронизации блокчейна.",
