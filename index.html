@@ -1,7 +1,85 @@
-<!DOCTYPE html><html lang="{{ 'LANG' | translate }}" ng-app="app"><head><meta name="fragment" content="!"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0"><meta property="og:url" content="https://apla.io/"><meta property="og:type" content="website"><meta property="og:image" content="https://apla.io/images/share/fb.png"><meta property="og:title" content="Apla"><meta property="og:description" content="Public blockchain platform for building digital ecosystems"><title translate="TITLE"></title><link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon"><link rel="stylesheet" href="/css/style.css?1521218533" media="screen, projection"><script src="/js/app.js?1521218533"></script></head><body ng-class="{'macfix': isiOS, 'androidfix': isAndroid, 'downloadPage': downloadPage}"><header ui-view="header" ng-class="{'active': isActive}" ng-scroll-reveal="header"></header><div ui-view="main" class="page"></div><footer ui-view="footer"></footer><script>
-	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-	ga('create', 'UA-106094666-1', 'auto');
-</script></body></html>
+<!DOCTYPE html>
+<html lang="ru">
+	<head>
+		<meta charset="UTF-8"/>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+		<title>Main - Apla</title>
+		<link rel="stylesheet" href="css/style.min.css"/>
+	</head>
+	<body>
+		<div class="wrapper">
+			<header class="header">
+				<div class="container">
+					<div class="header__row">
+						<div class="header__logo"><a href="index.html"><img src="img/logo.svg" alt=""/></a></div>
+						<div class="header__menu">
+							<div class="header__menu_icon"><i></i><i></i><i></i></div>
+							<ul>
+								<li><a href="White_Paper.pdf">White Paper</a></li>
+								<li><a href="Apla_Legal.pdf">Legal Paper</a></li>
+								<li><a href="https://github.com/AplaProject/apla-front/releases">Testnet</a></li>
+								<li><a href="https://blog.apla.io/tagged/news">News</a></li>
+								<li><a href="https://apla.readthedocs.io/en/latest/">Docs</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</header>
+			<div class="inner">
+				<div class="simple">
+					<div class="container">
+						<div class="simple__content">
+							<h1>Simple and compliant blockchain platform</h1>
+							<form class="simple__form">
+								<input type="email" name="email" placeholder="E-mail" autocomplete="off"/>
+								<button></button>
+							</form>
+							<div class="simple__subscribe">Subscribe to our newsletter to receive news about token sale</div>
+							<div class="simple__terms">By clicking this button, you agree to <a href="T_C.pdf">Terms of Use</a>.</div>
+						</div>
+					</div>
+				</div>
+				<div class="bottom" style="padding-bottom:60px">
+					<div class="container">
+						<div class="bottom__row">
+							<div class="bottom__col bottom__col--left">
+								<div class="bottom__companies"><a href="http://paperjam.lu/news/apla-un-swift-du-futur-grace-a-la-blockchain" target="_blank"><img src="img/paperjam@2x.jpg" alt="" height="26"/></a>
+								</div>
+								<div class="bottom__copyright">© 2018 Apla, All Rights Reserved.</div>
+							</div>
+							<div class="bottom__col bottom__col--right">
+								<div class="bottom__col_row" style="margin-top: 30px;">
+									<div class="bottom__col_col">
+										<div class="bottom__links">
+
+											<div class="bottom__link"><br></div>											
+											<div class="bottom__link"><a href="Privacy_and_Cookies_Policy.pdf" style="font-size:12px">Term of conditions</a></div>
+										</div>
+									</div>
+									<div class="bottom__col_col">
+										<address>45 rue Laurent Ménager, <br>L-2143 Luxembourg</address>
+									</div>
+									<div class="bottom__col_col"><a href="mailto:hello@apla.io" class="bottom__email">hello@apla.io</a></div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</body>
+	<script src="libs/jquery/jquery.min.js"></script>
+	<script src="libs/validation/jquery.validate.min.js"></script>
+	<script src="js/common.min.js"></script>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-106094666-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-106094666-1');
+</script>
+
+</html>
